@@ -1,4 +1,5 @@
 # DSA Practice
 
-## Topic's covered
--
+## 🧠 Topics Covered
+✅ Arrays & Strings
+
