@@ -16,7 +16,7 @@
 
 ---
 
-## 📘 Topics to Cover
+## 📘 Topics Covered
 
 ### 📐 Technical Concepts
 
